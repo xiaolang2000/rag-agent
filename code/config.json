@@ -1,0 +1,10 @@
+{
+  "ragflow": {
+    "api_key": "ragflow-iBKK7qoJisV536ML9GJ1_5wjmPJBIy6keH3tJnczzXQ",
+    "base_url": "http://10.200.1.66:80",
+    "assistant_name": "武侠"
+  },
+  "server": {
+    "main_server": "http://1.95.125.201"
+  }
+}
